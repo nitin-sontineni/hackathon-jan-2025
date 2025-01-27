@@ -1,12 +1,12 @@
 # hackathon-jan-2025
 # Project Title: Email Fraud Scanner  
 
-## 🚀 Project Overview  
+## Project Overview  
 **Email Fraud Scanner** is an AI-powered Chrome extension designed to proactively detect phishing scams. By analyzing email content in real-time, it identifies potential scams and provides users with clear explanations to enhance online safety. Built during the **Open Source AI Hackathon** hosted by OSS4AI, this project addresses the growing threat of cybercrime, especially phishing attacks.  
 
 ---
 
-## 🛠 Features  
+## Features  
 - **Real-Time Scam Detection**: Analyzes email content (subject and body) instantly.  
 - **AI-Driven Insights**: Flags potential scams with an explanation of why it’s considered fraudulent.  
 - **User-Friendly Extension**: Chrome extension that seamlessly integrates into the user’s browser for easy use.  
@@ -28,7 +28,7 @@
 
 ---
 
-## 💡 Future Scope  
+## Future Scope  
 - **Integration with More Platforms**: Support for Gmail, Outlook, and other email providers.  
 - **Mobile App Version**: Expand capabilities to include SMS scam detection.  
 - **Multi-Language Support**: Detect scams in non-English emails.  
@@ -36,7 +36,7 @@
 
 ---
 
-## 🏗️ Tech Stack  
+## Tech Stack  
 - **Frontend**: Chrome Extension with JavaScript and HTML/CSS.  
 - **Backend**: Node.js with Express for API development.  
 - **AI Model**: Python (using NLP techniques).  
@@ -44,12 +44,12 @@
 
 ---
 
-## 🏅 Hackathon Highlights  
+## Hackathon Highlights  
 This project was developed as part of the **Open Source AI Hackathon** hosted by **OSS4AI** at **Microsoft Reactor Redmond** and was recognized as one of the winning entries!  
 
 ---
 
-## 👩‍💻 Team Members    
+## Team Members    
 - **Rajat Aggarwal**  
 - **Goutham Y**  
 - **Haripriya**  
@@ -57,7 +57,7 @@ This project was developed as part of the **Open Source AI Hackathon** hosted by
 
 ---
 
-## 🎉 Acknowledgments  
+## Acknowledgments  
 A huge thanks to:  
 - **OSS4AI** for organizing the hackathon.  
 - **Arize AI** for sponsoring the event.  
@@ -65,7 +65,7 @@ A huge thanks to:
 
 ---
 
-## 📜 License  
+## License  
 This project is open-source and licensed under the [MIT License](LICENSE).  
 
 ---
