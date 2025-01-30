@@ -1,4 +1,4 @@
-# hackathon-jan-2025
+# This project was a winning entry in the Open Source AI Hackathon 2025 hosted by OSS4AI at Microsoft, Redmond
 # Project Title: Email Fraud Scanner  
 
 ## Project Overview  
